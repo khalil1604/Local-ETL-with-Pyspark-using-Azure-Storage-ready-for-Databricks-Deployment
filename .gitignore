@@ -1,0 +1,28 @@
+# Environment variables
+.env
+.env.local
+*.env
+
+# Virtual environment
+data-eng-env/
+venv/
+env/
+
+# Logs
+*.log
+pipeline.log
+
+# Artifacts
+artifacts/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/

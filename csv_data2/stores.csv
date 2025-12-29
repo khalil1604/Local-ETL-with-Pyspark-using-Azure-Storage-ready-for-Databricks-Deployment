@@ -1,0 +1,23 @@
+store_id,name,address,town,number_of_employees
+S001,Store Elliott and Sons,47672 Lynn Ridges,Tunis,11
+S002,Store Reed Group,731 Goodwin Center Apt. 398,Sfax,16
+S003,Store Ruiz-Webb,181 Kyle Branch,Sfax,14
+S004,Store Lopez-Chang,397 Crystal Point Suite 053,Monastir,17
+S005,Store Villanueva-Mccall,0762 Martinez Summit,Sfax,20
+S006,Store Page PLC,630 Klein Glen Suite 135,Gabes,18
+S007,Store Cunningham-Kidd,0466 Martinez Point Apt. 468,Monastir,18
+S008,"Store Murphy, Carey and Marquez",1143 Samuel Isle,Gabes,13
+S009,Store Luna Ltd,654 William Vista Suite 531,Kairouan,13
+S010,"Store Hernandez, Marshall and Reid",68514 Vaughn Forges,Bizerte,14
+S011,Store Koch-Obrien,6754 Shannon Dale Apt. 414,Tunis,13
+S012,Store Carlson-Horton,11928 Charles Harbor Suite 917,Sfax,20
+S013,Store Potter-Thompson,7715 Alice Mount Apt. 997,Sfax,17
+S014,Store Vasquez LLC,3300 Richards Hollow Apt. 336,Sousse,18
+S015,"Store Fernandez, Fitzpatrick and Bryant",93004 Marshall Prairie Suite 239,Sfax,19
+S016,Store Thomas PLC,0160 Brandon Burgs Suite 530,Bizerte,14
+S017,"Store Ramsey, Townsend and Berry",8871 Gomez Fall,Sfax,8
+S018,Store Garcia-Graves,184 Boyd Crescent,Kairouan,20
+S019,"Store Cherry, Lee and Garcia",9677 Padilla Hollow Apt. 220,Sousse,7
+S020,Store Cohen Ltd,86869 Morales Knolls,Tunis,5
+S021,"Store Johnson, Anderson and West",0102 Campbell Mill,Monastir,7
+S022,Store Smith-Ortega,885 Peterson Union Apt. 531,Gabes,13
